@@ -1,13 +1,7 @@
 - I’m @airsuz
 - I like Geometry Dash(I code sometimes)
-- I’m currently learning ... Lua
+- I’m currently learning ... C#!!!!!!
 - 💞️ I’m looking to collaborate on nothing
-- You can't reach me(Twitter, Discord, Geometry Dash messages, Roblox, Myspace, Google, nokias)
+- You can't reach me(Twitter, Discord, Geometry Dash messages, Roblox, Myspace, Google, the geometry dash forums)
 - Pronouns: He/Him
-- Fun fact: I made roblox games or smth
-
-<!---
-airsuz/airsuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-ok bro
+- Fun fact: I beat devil vortex
